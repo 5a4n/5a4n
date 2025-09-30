@@ -28,7 +28,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/5a4n/5a4n/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/dekrypted/dekrypted/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 ⭐ From [5a4n](https://github.com/5a4n)
