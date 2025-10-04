@@ -1,9 +1,18 @@
-# 👋 Hey, I'm **5a4n**  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300"/>
+</h1>
+
+# 👋 Hey, I'm **5a4n**
 
 [![Followers](https://img.shields.io/github/followers/5a4n?style=social)](https://github.com/5a4n)
 [![Stars](https://img.shields.io/github/stars/5a4n?style=social)](https://github.com/5a4n)
 [![Profile Views](https://komarev.com/ghpvc/?username=5a4n&color=blueviolet)](https://github.com/5a4n)
 
+<marquee behavior="scroll" direction="left" scrollamount="10">
+🔥 Welcome to my GitHub profile! 🔥
+</marquee>
+
+---
 
 ### ⚡ Tools & Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,8 +36,20 @@
 
 ---
 
+### 🔥 Random Quotes / Fun
+![quote](https://quotes-github-readme.vercel.app/api?type=quote&theme=dark)
+
+---
+
 ### 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/dekrypted/dekrypted/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
+
+### 📌 Projects / Highlights
+[![Project1](https://img.shields.io/badge/Project1-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project1)
+[![Project2](https://img.shields.io/badge/Project2-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project2)
+
+---
+
 ⭐ From [5a4n](https://github.com/5a4n)
