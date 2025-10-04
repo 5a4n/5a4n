@@ -1,16 +1,8 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300"/>
-</h1>
-
 # 👋 Hey, I'm **5a4n**
 
-[![Followers](https://img.shields.io/github/followers/5a4n?style=social)](https://github.com/5a4n)
-[![Stars](https://img.shields.io/github/stars/5a4n?style=social)](https://github.com/5a4n)
+[![Followers](https://img.shields.io/github/followers/5a4n?style=social)](https://github.com/5a4n) 
+[![Stars](https://img.shields.io/github/stars/5a4n?style=social)](https://github.com/5a4n) 
 [![Profile Views](https://komarev.com/ghpvc/?username=5a4n&color=blueviolet)](https://github.com/5a4n)
-
-<marquee behavior="scroll" direction="left" scrollamount="10">
-🔥 Welcome to my GitHub profile! 🔥
-</marquee>
 
 ---
 
@@ -22,33 +14,64 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5a4n&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5a4n&layout=compact&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=5a4n&show_icons=true&count_private=true&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5a4n&layout=compact&theme=radical&hide_border=true" width="49%" />
+</div>
 
 ---
 
 ### 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=5a4n&theme=radical&no-bg=true&no-frame=true&margin-w=15)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=5a4n&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
+</div>
 
 ---
 
-### 🔥 Random Quotes / Fun
-![quote](https://quotes-github-readme.vercel.app/api?type=quote&theme=dark)
+### 🔹 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/dekrypted/dekrypted/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/dekrypted/dekrypted/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
-
-### 📌 Projects / Highlights
+### 💼 Project Highlights
+<div align="center">
 [![Project1](https://img.shields.io/badge/Project1-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project1)
 [![Project2](https://img.shields.io/badge/Project2-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project2)
+[![Project3](https://img.shields.io/badge/Project3-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project3)
+[![Project4](https://img.shields.io/badge/Project4-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project4)
+</div>
+
+---
+
+### 📈 Contribution / Activity
+- **Total Commits:** ![Total commits](https://img.shields.io/badge/Commits-💻-blue)
+- **PRs Opened:** ![PRs](https://img.shields.io/badge/PRs-📂-green)
+- **Issues Opened:** ![Issues](https://img.shields.io/badge/Issues-🐞-red)
+- **Current Streak:** ![Streak](https://img.shields.io/badge/Streak-🔥-yellow)
+- **Last Commit:** ![Last commit](https://img.shields.io/badge/Last%20Commit-🕒-blueviolet)
+
+---
+
+### 🎯 Currently Learning
+- Rust 🦀  
+- Go 🟢 
+- Machine Learning 🤖  
+
+---
+
+### 🌟 Fun Facts
+
+- Love **automation, hacking challenges, and optimizing code**  
+- Open to collabs & learning new stuff
 
 ---
 
