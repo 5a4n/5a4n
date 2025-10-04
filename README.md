@@ -3,10 +3,12 @@
 [![Followers](https://img.shields.io/github/followers/5a4n?style=social)](https://github.com/5a4n) 
 [![Stars](https://img.shields.io/github/stars/5a4n?style=social)](https://github.com/5a4n) 
 [![Profile Views](https://komarev.com/ghpvc/?username=5a4n&color=blueviolet)](https://github.com/5a4n)
+[![Visitor Count](https://profile-counter.glitch.me/5a4n/count.svg)](https://github.com/5a4n)
 
 ---
 
 ### ⚡ Tools & Languages
+<div align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,13 +19,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=5a4n&show_icons=true&count_private=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5a4n&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=5a4n&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5a4n&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -42,6 +45,17 @@
 
 ---
 
+### 📈 Contribution / Activity
+<div align="center">
+- **Total Commits:** ![Total commits](https://img.shields.io/badge/Commits-💻-blue?style=flat-square)
+- **PRs Opened:** ![PRs](https://img.shields.io/badge/PRs-📂-green?style=flat-square)
+- **Issues Opened:** ![Issues](https://img.shields.io/badge/Issues-🐞-red?style=flat-square)
+- **Current Streak:** ![Streak](https://img.shields.io/badge/Streak-🔥-yellow?style=flat-square)
+- **Last Commit:** ![Last commit](https://img.shields.io/badge/Last%20Commit-🕒-blueviolet?style=flat-square)
+</div>
+
+---
+
 ### 💼 Project Highlights
 <div align="center">
 [![Project1](https://img.shields.io/badge/Project1-GitHub-black?style=for-the-badge)](https://github.com/5a4n/project1)
@@ -52,26 +66,23 @@
 
 ---
 
-### 📈 Contribution / Activity
-- **Total Commits:** ![Total commits](https://img.shields.io/badge/Commits-💻-blue)
-- **PRs Opened:** ![PRs](https://img.shields.io/badge/PRs-📂-green)
-- **Issues Opened:** ![Issues](https://img.shields.io/badge/Issues-🐞-red)
-- **Current Streak:** ![Streak](https://img.shields.io/badge/Streak-🔥-yellow)
-- **Last Commit:** ![Last commit](https://img.shields.io/badge/Last%20Commit-🕒-blueviolet)
-
----
-
 ### 🎯 Currently Learning
+<div align="center">
 - Rust 🦀  
-- Go 🟢 
+- Go 🟢  
 - Machine Learning 🤖  
+- Web3 / Blockchain 🟣  
+</div>
 
 ---
 
-### 🌟 Fun Facts
-
+### 🌟 Fun Facts / Extras
+<div align="center">
 - Love **automation, hacking challenges, and optimizing code**  
-- Open to collabs & learning new stuff
+- Open to collabs & learning new stuff  
+- Huge fan of **algorithms, systems, and optimization**  
+- Currently experimenting with **dynamic badges** and **profile enhancements**
+</div>
 
 ---
 
